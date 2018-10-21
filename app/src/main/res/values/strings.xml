@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UPCOMING MOVIES APP</string>
+
+    <string name="dev_by">Developed by:\nNikhil Bobade</string>
 </resources>

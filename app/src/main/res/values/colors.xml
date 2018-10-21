@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryDark">#34495e</color>
+    <color name="colorAccent">#44719f</color>
+
+
+    <color name="RedColor">#d70104</color>
+    <color name="GreenColor">#04a165</color>
+
+
+    <color name="greyToolbar">#48494b</color>
+    <color name="BlueToolbar">#34495e</color>
+    <color name="DarkBlueToolbar">#243343</color>
+    <color name="BluePicColor">#df34495e</color>
+    <color name="DarkgreyToolbar">#3c3c3e</color>
+    <color name="BlueTextColor">#243343</color>
+    <color name="lightback">#d9e4ef</color>
+
+    <color name="transparent">#50112233</color>
+    <color name="transparentLight">#2f112233</color>
+    <color name="transparentColor">#00f5476a</color>
+
+
+    <color name="colorText">#e6e6ec</color>
+    <color name="colorCalender">#979797</color>
+    <color name="colorHint">#c1c0c0</color>
+    <color name="colorTextWhite">#efeff2</color>
+    <color name="BackWhite">#ffffff</color>
+
+    <color name="colorDashboardJan">#01D07B</color>
+    <color name="colorDashboardFeb">#1e3799</color>
+    <color name="colorDashboardMarch">#079992</color>
+    <color name="colorDashboardApril">#FE5621</color>
+    <color name="colorDashboardMay">#E259A9</color>
+    <color name="colorDashboardJune">#00BBD3</color>
+    <color name="colorDashboardJuly">#3E50B4</color>
+    <color name="colorDashboardAugust">#2e3460</color>
+    <color name="colorDashboardSeptember">#6ba3fc</color>
+    <color name="colorDashboardOct">#b2000000</color>
+    <color name="colorDashboardNov">#1e3799</color>
+    <color name="colorDashboardDec">#079992</color>
+
+    <color name="colorRed">#d0c71010</color>
+
+    <color name="colorForText">#2d2d2d</color>
+    <color name="colorView">#d8d9da</color>
+
+    <color name="colorWhite">#ffffff</color>
+
+    <!--nikhil-->
+    <color name="colorStrip">#a5605b5b</color>
+    <!---->
+
 </resources>
